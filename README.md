@@ -14,7 +14,3 @@
 This is the change I wanted!!!
 
 # New Feature!
-
-This is Ryan's co-worker's work!
-
-# Another new feature! 
