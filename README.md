@@ -13,8 +13,6 @@
 
 This is the change I wanted!!!
 
-# New Feature!
+# Writing code on the master branch when I should be on a dev branch.
 
-This is Ryan's coworker John
-
-# Another new feature!
+(moved to the `dev` branch)
