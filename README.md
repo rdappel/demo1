@@ -1,5 +1,5 @@
 
-# Demo Repsitory
+# Demo Repository
 
 🚀 This is a demo repository for the Version Control Essentials course.
 
