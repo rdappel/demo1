@@ -12,5 +12,3 @@
 🌍 Hello World! --- IGNORE ---
 
 This is the change I wanted!!!
-
-This is code from my co-worker
